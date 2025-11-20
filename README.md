@@ -49,8 +49,9 @@ Higher monthly charges are associated with higher churn rates
 - model fitting
 - accuracy and classification report
 - business implications of predictive modeling
+The model supports the findings of the EDA and highlights contract type, tenure, and monthly charges are the main drivers of churn.
 
-## Business recommendations
+## Business Recommendations
 The top priority is to encourage long term contracts. Short term contracts are the number one indicator of churn. Almost all of the high churn rates that appear in the other categorical features are explained by contract type when looking at the data more closely. Because of this, encouraging longer contracts would reduce churn rates across almost all features. This can be achieved by discounting the first year or offering various promotions.
 
 The second priority is to increase retention for customers in their first six months of tenure. I recommend promotions to extend their tenure such as discounting a 6 month extension. Additionally ensuring customer satisfaction within those first six months is important. This can be achieved by monthly check ins to see what they are/aren't satisfied with.
